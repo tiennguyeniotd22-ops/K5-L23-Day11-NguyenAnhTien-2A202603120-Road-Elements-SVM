@@ -1,0 +1,7 @@
+<polyline label="lane" source="file" occluded="0" points="926.37,589.97;867.42,488.77;825.17,413.12;783.91,359.08;717.10,308.97;677.80,283.43" z_order="0">
+      <attribute name="position">R1</attribute>
+      <attribute name="style">dashed</attribute>
+      <attribute name="color">white</attribute>
+      <attribute name="kind">single</attribute>
+    </polyline>
+    
